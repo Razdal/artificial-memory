@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArtificialMemory.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "memorize \"remember to buy bread\""
+    }
+  }
+}
